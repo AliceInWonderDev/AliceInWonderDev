@@ -1,1 +1,1 @@
-![img](./its_coding_time.png)
+![img](https://raw.githubusercontent.com/AliceInWonderDev/AliceInWonderDev/master/its_coding_time-1.png)
